@@ -10,4 +10,4 @@
 + data cleaning
 
 #### Contacts
-Please contact Svetlana Kuznetsova (kuznecsve@mail.ru) if you have any inquiries about the database.
+Please contact Svetlana Kuznetsova (svkuznetsova_1@edu.hse.ru) if you have any inquiries about the database.
